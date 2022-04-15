@@ -1,3 +1,5 @@
+create database sample;
+use sample;
 DROP FUNCTION IF EXISTS `ordered_uuid`;
 
 DROP TABLE IF EXISTS `tweet`;
